@@ -6,7 +6,7 @@
 
 ## Instruction
 
-For run each proyect you have to acces with `cd` in a terminal a run the command `./mvnw spring-boot:run` (powershell in Windows or bash in Linux) or `mvnw.cmd spring-boot:run` (Windows CMD).
+For run each project you have to acces with `cd` in a terminal a run the command `./mvnw spring-boot:run` (powershell in Windows or bash in Linux) or `mvnw.cmd spring-boot:run` (Windows CMD).
 
 ## Build in
 
